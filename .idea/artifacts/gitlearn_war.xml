@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="gitlearn:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="gitlearn-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="gitlearn:war exploded" />
-    </root>
-  </artifact>
-</component>
